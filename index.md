@@ -5,11 +5,11 @@
 ### Individual Projects 
 
 ---
-[Discriminant Analysis & Logistic Regression](/pdf/Discriminant Analysis & Logistic Regression.pdf)
+[Factor Analysis & Cluster Analysis](/pdf/Factor Analysis & Cluster Analysis.pdf)
 
 
 ---
-[Factor Analysis & Cluster Analysis](/pdf/Factor Analysis & Cluster Analysis.pdf)
+[Discriminant Analysis & Logistic Regression](/pdf/Discriminant Analysis & Logistic Regression.pdf)
 
 
 ---
@@ -31,8 +31,8 @@
 ---
 [Airbnb rentals in Melbourne, Australia - Data Analysis and Regression with SAS ](/pdf/Technical Summary Report .pdf)
 
---
-[SAS Code](/pdf/SAS code.pdf)
+---
+[Airbnb rentals in Melbourne, Australia - SAS Code](/pdf/SAS code.pdf)
 
 ---
 
