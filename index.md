@@ -20,6 +20,7 @@
 
 ### Group Projects (individual contributions available)
 
+---
 [HR Analytics - Advanced Data Analysis with R](/pdf/HR Analytics.pdf)
 
 
@@ -28,7 +29,7 @@
 
 
 ---
-[Predicting Airbnb Price Point - Data Analysis and Regression with SAS ](/pdf/Technical Summary Report .pdf)
+[Airbnb rentals in Melbourne, Australia - Data Analysis and Regression with SAS ](/pdf/Technical Summary Report .pdf)
 
 --
 [SAS Code](/pdf/SAS code.pdf)
