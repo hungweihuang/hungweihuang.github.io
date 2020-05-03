@@ -34,7 +34,7 @@ _Contributions_:
 
 [Airbnb Rentals in Melbourne, Australia - Data Analysis and Regression with SAS ](/pdf/Technical Summary Report .pdf)
 
-Utilized SAS for thorough data exploration, variable transformation, outliers detection, and data validation. The objectives of this project were to reveal insights and conducted prediction on the price point of Airbnb in Melbourne, Australia. The methodology of my individual analysis is included on page 4 to 6. More importantly, the detailed report of my analysis and findings are included on page 17-25.
+Utilized SAS for thorough data exploration, variable transformation, outliers detection, and data validation. The objectives of this project were to reveal insights and conducted prediction on the price point of Airbnb in Melbourne, Australia. The methodology of my individual analysis is included on page 4 to 6. The detailed report of my analysis and findings are included on page 17 to 25.
 
 ---
 
