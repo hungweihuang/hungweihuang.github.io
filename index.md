@@ -13,7 +13,7 @@
 
 
 ---
-[Amazon Strategic Alternatives](/pdf/Amazon Strategic Alternatives.pdf)
+[Amazon Strategic Alternatives - Marketing Strategies](/pdf/Amazon Strategic Alternatives.pdf)
 
 
 ---
