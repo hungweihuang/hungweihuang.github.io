@@ -32,6 +32,14 @@ Technique Covered:
 ---
 [HR Analytics - Advanced Data Analysis with R](/pdf/HR Analytics.pdf)
 
+The goal of this project was to predict employee attrition rate and monthly income. Logistic Regression was used to predict the probability of attrition, while Linear Regression was used to predict monthly income. My individual report is attached on page 27. R code (page 40) and supplementary graphs are also attached as appendices.
+
+Individual Contributions (include R code and Technical Report):
+1. Exploratory Data Analysis
+2. Ordinary Least Square
+3. Correspondence Analysis
+4. Lasso Regression
+5. Partial Least Square
 
 ---
 [Walmart Sales Prediction - Time Series Analysis and Forecasting with R](/pdf/Walmart Sales Prediction.pdf)
