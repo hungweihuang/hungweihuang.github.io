@@ -25,7 +25,7 @@ Marketing Strategies & Technique Covered:
 
 ---
 
-### Group Projects (individual contributions available)
+### Group Projects (with individual contributions)
 
 ---
 [HR Analytics - Advanced Data Analysis with R](/pdf/HR Analytics.pdf)
