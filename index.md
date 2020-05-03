@@ -48,8 +48,13 @@ The complete SAS code for my individual analysis.
 
 [Factor Analysis & Cluster Analysis](/pdf/Factor Analysis & Cluster Analysis.pdf)
 
+Applied Principal Component Analysis with SPSS to analyze survey results with 300 respondents. On the other hand, to cluster the respondents based on message rating (cluster analysis, page 23), both hierarchical clustering (Ward's method) and non-hierarchical clustering (K-means) were applied, with a Two-step cluster analysis at the end to evaluate the results. 
+
 ---
+
 [Discriminant Analysis](/pdf/Discriminant Analysis.pdf)
+
+Used Discriminant Analysis to identify the attribute which has the strongest discriminatory power and the strongest correlation with the discriminant function. As for classification, the discriminant function correctly classified 61.5% of the total 299 responses.
 
 ---
 
