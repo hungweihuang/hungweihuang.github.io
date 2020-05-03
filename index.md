@@ -25,8 +25,8 @@ _Individual Contributions_:
 Utilize time series analysis with R to find optimal ways with which a major retail company can most accurately forecast future sales. This project includes various forecasting models, including Simple Exponential Smoothing, Holt's Method, ARIMA, Time Series Regression, and more. Both log transformation and differencing were applied to stabilize the model performance. Lastly, the accuracy of the models was evaluated based on RMSE and MAE. The complete R code is attached on page 15 as an appendix.
 
 _Contributions_:
-1. Group efforts throughout the project
-2. Presented the best performanced time series model with minimun errors at the final presentation
+1. Group efforts throughout coding, presentation, and final report 
+2. Presented the best performanced forecasting model at the final presentation
 
 ---
 
