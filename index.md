@@ -1,29 +1,28 @@
-## Portfolio
+## Projects
 
 ---
 
-### Category Name 1 
+### Individual Projects 
 
-[Project 1 Title](/sample_page)
+[Discriminant Analysis & Logistic Regression](/pdf/Discriminant Analysis and Logistic Regression.pdf )
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
-[Project 2 Title](/pdf/sample_presentation.pdf)
+[Factor Analysis & Cluster Analysis](/pdf/Factor Analysis & Cluster Analysis.pdf)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
-[Project 3 Title](http://example.com/)
+[Amazon Strategic Alternatives](/pdf/Amazon Strategic Alternatives.pdf)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
 
-### Category Name 2
+### Group Projects (individual contributions available)
 
-- [Project 1 Title](http://example.com/)
-- [Project 2 Title](http://example.com/)
-- [Project 3 Title](http://example.com/)
-- [Project 4 Title](http://example.com/)
-- [Project 5 Title](http://example.com/)
+- [HR Analytics - Advanced Data Analysis with R](/pdf/HR Analytics.pdf)
+- [Walmart Sales Prediction - Time Series Analysis and Forecasting with R](/pdf/Walmart Sales Prediction.pdf)
+- [Predicting Airbnb Price Point - Data Analysis and Regression with SAS ](/pdf/Technical Summary Report .pdf)
+- [Airbnb Project - SAS Code](/pdf/SAS code.pdf)
 
 ---
 
