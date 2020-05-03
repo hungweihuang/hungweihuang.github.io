@@ -4,7 +4,7 @@
 
 ### Individual Projects 
 
-[Discriminant Analysis & Logistic Regression](/pdf/Discriminant Analysis and Logistic Regression.pdf )
+[Discriminant Analysis & Logistic Regression](/pdf/Discriminant Analysis & Logistic Regression.pdf )
 
 
 ---
@@ -28,6 +28,7 @@
 
 ---
 [Predicting Airbnb Price Point - Data Analysis and Regression with SAS ](/pdf/Technical Summary Report .pdf)
+
 [SAS Code](/pdf/SAS code.pdf)
 
 ---
