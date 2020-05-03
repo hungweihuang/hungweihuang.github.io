@@ -26,7 +26,7 @@ Utilize time series analysis with R to find optimal ways with which a major reta
 
 _Contributions_:
 1. Group efforts throughout the project
-2. Presenting the best performanced time series model with minimun errors at the final presentation
+2. Presented the best performanced time series model with minimun errors at the final presentation
 
 ---
 
