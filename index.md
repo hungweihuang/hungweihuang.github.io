@@ -54,7 +54,7 @@ The complete SAS code for my individual analysis.
 
 [Amazon Strategic Alternatives - Marketing Strategies](/pdf/Amazon Strategic Alternatives.pdf)
 
-Proposed 3 strategic alternatives for Amazon to compete with their direct and indirect competitors in the market. Each strategic alternative includes pros and cons, as well as the short-term and long-term impact on Amazon's business. Associated with each strategic alternative, Chain Ration Method was used to conduct a 3-year revenue forecast, based on the predefined assumptions.
+As part of the complete course project, the file featured is my individual contribution. 3 strategic alternatives were proposed for Amazon to compete with their direct and indirect competitors in the market. Each strategic alternative includes pros and cons, as well as the short-term and long-term impact on Amazon's business. Associated with each strategic alternative, Chain Ration Method was used to conduct a 3-year revenue forecast, based on the predefined assumptions.
 
 _Marketing Strategies & Technique Covered:_
 1. Strategic Withdrawal Strategy
