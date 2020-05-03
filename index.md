@@ -29,10 +29,10 @@
 
 
 ---
-[Airbnb rentals in Melbourne, Australia - Data Analysis and Regression with SAS ](/pdf/Technical Summary Report .pdf)
+[Airbnb Rentals in Melbourne, Australia - Data Analysis and Regression with SAS ](/pdf/Technical Summary Report .pdf)
 
 ---
-[Airbnb rentals in Melbourne, Australia - SAS Code](/pdf/SAS code.pdf)
+[Airbnb Rentals in Melbourne, Australia - SAS Code](/pdf/SAS code.pdf)
 
 ---
 
