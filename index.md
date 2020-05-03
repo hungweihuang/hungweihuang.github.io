@@ -9,7 +9,7 @@
 
 
 ---
-[Discriminant Analysis & Logistic Regression](/pdf/Discriminant Analysis & Logistic Regression.pdf)
+[Discriminant Analysis](/pdf/Discriminant Analysis.pdf)
 
 
 ---
