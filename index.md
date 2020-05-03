@@ -9,7 +9,7 @@
 The goal of this project was to predict employee attrition rate and monthly income. Logistic Regression was used to predict the probability of attrition, while Linear Regression was used to predict monthly income. Other statistical techniques were also applied with R to explore hidden relationships among variables.
 In addition to group efforts, my individual report is attached on page 27. R code (page 40) and supplementary graphs are also attached as appendices.
 
-Individual Contributions - responsible for both R code and the corresponding portions of technical report:
+**Individual Contributions** - responsible for both R code and the corresponding portions of technical report:
 1. Exploratory Data Analysis
 2. Ordinary Least Square
 3. Correspondence Analysis
@@ -51,7 +51,7 @@ Individual Contributions - responsible for both R code and the corresponding por
 
 Proposed 3 strategic alternatives for Amazon to compete with their direct and indirect competitors in the market. Each strategic alternative includes pros and cons, as well as the short-term and long-term impact on Amazon's business. Associated with each strategic alternative, Chain Ration Method was used to conduct a 3-year revenue forecast, based on the predefined assumptions.
 
-Marketing Strategies & Technique Covered:
+**Marketing Strategies & Technique Covered:**
 1. Strategic Withdrawal Strategy
 2. Flanker Strategy
 3. Position Defense Strategy
