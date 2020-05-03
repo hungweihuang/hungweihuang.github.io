@@ -22,7 +22,7 @@ Marketing Strategies Covered:
 2. Flanker Strategy
 3. Position Defense Strategy
 
-Techniques Covered:
+Technique Covered:
 1. Chain Ratio Method
 
 ---
