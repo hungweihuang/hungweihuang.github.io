@@ -30,7 +30,8 @@ Marketing Strategies & Technique Covered:
 ---
 [HR Analytics - Advanced Data Analysis with R](/pdf/HR Analytics.pdf)
 
-The goal of this project was to predict employee attrition rate and monthly income. Logistic Regression was used to predict the probability of attrition, while Linear Regression was used to predict monthly income. In addition to group efforts, my individual report is attached on page 27. R code (page 40) and supplementary graphs are also attached as appendices.
+The goal of this project was to predict employee attrition rate and monthly income. Logistic Regression was used to predict the probability of attrition, while Linear Regression was used to predict monthly income. Other statistical techniques were also applied with R to explore hidden relationships among variables.
+In addition to group efforts, my individual report is attached on page 27. R code (page 40) and supplementary graphs are also attached as appendices.
 
 Individual Contributions - responsible for both R code and the corresponding portions of technical report:
 1. Exploratory Data Analysis
