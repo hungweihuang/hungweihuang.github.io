@@ -5,15 +5,15 @@
 ### Individual Projects 
 
 [Discriminant Analysis & Logistic Regression](/pdf/Discriminant Analysis and Logistic Regression.pdf )
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+
 
 ---
 [Factor Analysis & Cluster Analysis](/pdf/Factor Analysis & Cluster Analysis.pdf)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+
 
 ---
 [Amazon Strategic Alternatives](/pdf/Amazon Strategic Alternatives.pdf)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+
 
 ---
 
