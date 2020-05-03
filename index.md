@@ -48,7 +48,7 @@ The complete SAS code for my individual analysis.
 
 [Factor Analysis & Cluster Analysis](/pdf/Factor Analysis & Cluster Analysis.pdf)
 
-Applied Principal Component Analysis with SPSS to analyze survey results with 300 respondents. On the other hand, to cluster the respondents based on message rating (cluster analysis, page 23), both hierarchical clustering (Ward's method) and non-hierarchical clustering (K-means) were applied, with a Two-step cluster analysis at the end to evaluate the results. 
+Applied Principal Component Analysis with SPSS to analyze survey results with 300 respondents. As for clustering the respondents based on message rating (cluster analysis, page 23), both hierarchical clustering (Ward's method) and non-hierarchical clustering (K-means) were applied, with a Two-step cluster analysis at the end to evaluate the results. 
 
 ---
 
