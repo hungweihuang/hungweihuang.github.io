@@ -34,7 +34,7 @@ Technique Covered:
 
 The goal of this project was to predict employee attrition rate and monthly income. Logistic Regression was used to predict the probability of attrition, while Linear Regression was used to predict monthly income. My individual report is attached on page 27. R code (page 40) and supplementary graphs are also attached as appendices.
 
-Individual Contributions (include R code and Technical Report):
+Individual Contributions - responsible for both R code and the corresponding portions of technical report:
 1. Exploratory Data Analysis
 2. Ordinary Least Square
 3. Correspondence Analysis
