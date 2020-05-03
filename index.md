@@ -1,8 +1,8 @@
-## Projects
+## PROJECTS
 
 ---
 
-### Advanced Data Analysis
+### ADVANCED DATA ANALYSIS
 
 [HR Analytics - Advanced Data Analysis with R](/pdf/HR Analytics.pdf)
 
@@ -18,7 +18,7 @@ _Individual Contributions_:
 
 ---
 
-### Time Series Analysis and Forecasting
+### TIME SERIES ANALYSIS & FORECASTING
 
 [Walmart Sales Prediction - Time Series Analysis and Forecasting with R](/pdf/Walmart Sales Prediction.pdf)
 
@@ -30,7 +30,7 @@ _Contributions_:
 
 ---
 
-### Data Analysis and Regression
+### DATA ANALYSIS & REGRESSION
 
 [Airbnb Rentals in Melbourne, Australia - Data Analysis and Regression with SAS ](/pdf/Technical Summary Report .pdf)
 
@@ -44,7 +44,7 @@ The complete SAS code for my individual analysis.
 
 ---
 
-### Advanced Market Research
+### ADVANCED MARKET RESEARCH
 
 [Factor Analysis & Cluster Analysis](/pdf/Factor Analysis & Cluster Analysis.pdf)
 
@@ -58,7 +58,7 @@ Used _Discriminant Analysis_ to identify the attribute which has the strongest d
 
 ---
 
-### Marketing Strategies and Planning
+### MARKETING STRATEGIES & PLANNING
 
 [Amazon Strategic Alternatives - Marketing Strategies](/pdf/Amazon Strategic Alternatives.pdf)
 
