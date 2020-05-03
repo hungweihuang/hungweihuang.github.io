@@ -7,7 +7,7 @@
 [HR Analytics - Advanced Data Analysis with R](/pdf/HR Analytics.pdf)
 
 The goal of this project was to predict employee attrition rate and monthly income. Logistic Regression was used to predict the probability of attrition, while Linear Regression was used to predict monthly income. Other statistical techniques were also applied with R to explore hidden relationships among variables.
-In addition to group efforts, my individual report (responsible for both coding and the corresponding portions of technical report) is attached on page 27. R code (page 40) and supplementary graphs are also attached as appendices.
+In addition to group efforts, my individual report (responsible for both coding and the corresponding portions of technical report) is attached on page 27. The complete R code (page 40) and supplementary graphs are also attached as appendices.
 
 _Individual Contributions_:
 1. Exploratory Data Analysis
@@ -22,8 +22,11 @@ _Individual Contributions_:
 
 [Walmart Sales Prediction - Time Series Analysis and Forecasting with R](/pdf/Walmart Sales Prediction.pdf)
 
+Utilize time series analysis with R to find optimal ways with which a major retail company can most accurately forecast future sales. This project featured various time series models, including Simple Exponential Smoothing, Holt's Method, ARIMA, Time Series Regression, and more. Both log transformation and differencing were applied to stabilize the model performance. Lastly, the accuracy of the models was evaluated based on RMSE and MAE. The complete R code is attached on page 15 as an appendix.
 
-
+_Contributions_:
+1. Group efforts throughout the project
+2. Presenting the best performanced time series model with minimun errors at the final presentation
 
 ---
 
