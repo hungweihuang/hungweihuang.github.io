@@ -17,13 +17,11 @@
 
 Proposed 3 strategic alternatives for Amazon to compete with their direct and indirect competitors in the market. Each strategic alternative includes pros and cons, as well as the short-term and long-term impact on Amazon's business. Associated with each strategic alternative, Chain Ration Method was used to conduct a 3-year revenue forecast, based on the predefined assumptions.
 
-Marketing Strategies Covered:
+Marketing Strategies & Technique Covered:
 1. Strategic Withdrawal Strategy
 2. Flanker Strategy
 3. Position Defense Strategy
-
-Technique Covered:
-1. Chain Ratio Method
+4. Chain Ratio Method
 
 ---
 
