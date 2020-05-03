@@ -4,7 +4,7 @@
 
 ### Individual Projects 
 
-[Discriminant Analysis & Logistic Regression](/pdf/Discriminant Analysis & Logistic Regression.pdf )
+[Discriminant Analysis & Logistic Regression](/pdf/Discriminant Analysis & Logistic Regression.pdf)
 
 
 ---
