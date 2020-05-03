@@ -22,7 +22,7 @@ _Individual Contributions_:
 
 [Walmart Sales Prediction - Time Series Analysis and Forecasting with R](/pdf/Walmart Sales Prediction.pdf)
 
-Utilize time series analysis with R to find optimal ways with which a major retail company can most accurately forecast future sales. This project includes various forecasting models, including _Simple Exponential Smoothing, Holt's Method, ARIMA, Time Series Regression,_ and more. Both _log transformation_ and _differencing_ were applied to stabilize the model performance. Lastly, the accuracy of the models was evaluated based on _RMSE_ and _MAE_. The complete R code is attached on page 15 as an appendix.
+Utilized _Time Series Analysis_ with R to find optimal ways with which a major retail company can most accurately forecast future sales. This project includes various forecasting models, including _Simple Exponential Smoothing, Holt's Method, ARIMA, Time Series Regression,_ and more. Both _log transformation_ and _differencing_ were applied to stabilize the model performance. Lastly, the accuracy of the models was evaluated based on _RMSE_ and _MAE_. The complete R code is attached on page 15 as an appendix.
 
 _Contributions_:
 1. Group efforts throughout coding, presentation, and final report 
