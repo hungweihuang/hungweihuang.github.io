@@ -19,10 +19,16 @@
 
 ### Group Projects (individual contributions available)
 
-- [HR Analytics - Advanced Data Analysis with R](/pdf/HR Analytics.pdf)
-- [Walmart Sales Prediction - Time Series Analysis and Forecasting with R](/pdf/Walmart Sales Prediction.pdf)
-- [Predicting Airbnb Price Point - Data Analysis and Regression with SAS ](/pdf/Technical Summary Report .pdf)
-- [Airbnb Project - SAS Code](/pdf/SAS code.pdf)
+[HR Analytics - Advanced Data Analysis with R](/pdf/HR Analytics.pdf)
+
+
+---
+[Walmart Sales Prediction - Time Series Analysis and Forecasting with R](/pdf/Walmart Sales Prediction.pdf)
+
+
+---
+[Predicting Airbnb Price Point - Data Analysis and Regression with SAS ](/pdf/Technical Summary Report .pdf)
+[SAS Code](/pdf/SAS code.pdf)
 
 ---
 
